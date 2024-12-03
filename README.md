@@ -118,9 +118,9 @@ java -jar out/artifacts/TestTask_jar/TestTask.jar -o ./output/  -s -p  result_ .
 
 После выполнения создаются файлы:
 
-- `./results/data_integers.txt`
-- `./results/data_floats.txt`
-- `./results/data_strings.txt`
+- `./output/data_integers.txt`
+- `./output/data_floats.txt`
+- `./output/data_strings.txt`
 
 ### 📊 Пример статистики
 
